@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/jquery": "^3.3.33",
     "amfe-flexible": "^2.2.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bpmn-js": "^6.3.1",
     "bpmn-js-properties-panel": "^0.33.1",
     "bpmn-js-task-priorities": "^0.2.0",
